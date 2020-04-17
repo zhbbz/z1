@@ -30,6 +30,7 @@ The commands I learned/refreshed today.
 - (local) create a new dir, enter, and do `git init`, then do some work
 - *Clone a repo* (local) `git clone https://github.com/zhbbz/z1.git`
 - *Push to online repo* (local) `git push origin master`
+- *Pull to local* (local) `git pull origin master
 
 Good luck for my job hunt.
 
