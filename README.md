@@ -26,6 +26,7 @@ The commands I learned/refreshed today. (All command are on local machine)
 - *Initial important config* (only run once)
     * `git config --global user.name "my full name"`
     * `git config --global user.email my_email@my_server`
+    * show config and its origin! `git config --list --show-origin`
 - *New repo* Create a new dir, enter, and do `git init`, then do some work
 - `git add/rm ...` to modify files 
 - `git commit -a` to commit all content changes
