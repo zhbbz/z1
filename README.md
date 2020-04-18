@@ -30,7 +30,8 @@ The commands I learned/refreshed today. (All command are on local machine)
 - `git add/rm ...` to modify files 
 - `git commit -a` to commit all content changes
 - *Clone a repo* 
-    * `git clone https://github.com/zhbbz/z1.git`
+    * `git clone https://github.com/zhbbz/z1.git` (a local z1/ dir will be created in current folder)
+    * `git clone https://github.com/zhbbz/z1.git myrepo` (a local myrepo/ dir will be created in current folder)
 - *Push to online repo* 
     * `git push origin master`
 - *Pull to local* 
