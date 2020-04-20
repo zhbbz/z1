@@ -40,5 +40,7 @@ The commands I learned/refreshed today. (All command are on local machine)
 
 Good luck for my job huntings!
 
+today is Sun 04/19/2020.
+
 HZ
 
