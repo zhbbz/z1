@@ -38,7 +38,7 @@ The commands I learned/refreshed today. (All command are on local machine)
 - *Pull to local* 
     * `git pull origin master`
 
-Good luck for my job hunts!
+Good luck for my job hunts haha!
 
 HZ
 
