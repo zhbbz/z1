@@ -42,5 +42,10 @@ Good luck for my job huntings!
 
 today is Sun 04/19/2020.
 
+============================
+Yet another new refreshment of git knowledge in June 2023
+(OMG, I'm 50 years old now!!!)
+
+
 HZ
 
