@@ -43,7 +43,10 @@ Good luck for my job huntings!
 today is Sun 04/19/2020.
 
 =================
-Can you believe it? It's 2023 !
+Can you believe it?!
+Yet another new refreshment of git knowledge in June 2023
+(OMG, I'm 50 years old now!!!)
+
 
 HZ
 
