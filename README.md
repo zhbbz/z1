@@ -18,7 +18,7 @@ Now is 2020-04-17 Friday 4:19 pm MST
 
 I've setup Visual Studio Code (VSC) for C++ and Python dev, and installed VSC extensions of remote dev using MSL and CMake for multi-file C++ dev.
 
-I've refreshed my C++ knowledge and git knowledge.
+I've refreshed my C++ knowledge and Git knowledge.
 
 I'm doing all these things right now.
 
@@ -42,12 +42,12 @@ Good luck for my job huntings!
 
 today is Sun 04/19/2020.
 
-New
-=================
+New Again (as of 2023-06-06)
+============================
 
 Can you believe it?!
 
-Yet another new refreshment of git knowledge in June 2023
+Yet another new refreshment of Git knowledge in June 2023
 
 (OMG, I'm 50 years old now!!!)
 
