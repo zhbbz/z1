@@ -58,7 +58,10 @@ Running tab for learned key commands:
 + `git hist` log nice fake-tree oneline history of current branch
 + `git hist --all` same for all branches
 + `git br -b newbranch` create a newbranch and switch to it
++ `git br --all` show all branches (local and remote)
++ `git br -vv` more detailed info regarding each branch
 + `git switch -` switch/checkout to the previous branch
++ `git remote show origin` gives detailed info regarding the 'origin' remote 
 
 
 HZ
