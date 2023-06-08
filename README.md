@@ -54,3 +54,4 @@ Yet another new refreshment of Git knowledge in June 2023
 
 HZ
 minor setup 1
+minor setup 2
