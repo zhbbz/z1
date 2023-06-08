@@ -53,5 +53,13 @@ Yet another new refreshment of Git knowledge in June 2023
 
 * My daily addition at 2023-06-07 Wed
 
+Running tab for learned key commands:
+
++ `git hist` log nice fake-tree oneline history of current branch
++ `git hist --all` same for all branches
++ `git br -b newbranch` create a newbranch and switch to it
++ `git switch -` switch/checkout to the previous branch
+
+
 HZ
 
