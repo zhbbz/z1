@@ -52,6 +52,7 @@ Yet another new refreshment of Git knowledge in June 2023
 (OMG, I'm 50 years old now!!!)
 
 * My daily addition at 2023-06-07 Wed
+
   OK, here is what I did.
     1. Locally, I created a new branch `git co -b test1`
     2. Modified README.md once, commit, another time, commit again.
@@ -59,6 +60,7 @@ Yet another new refreshment of Git knowledge in June 2023
       and 2 ahead.
     4. Locally, I did `git fetch; git co master; git pull` to sync my tracking branch (master)
     5. Then `git switch test1; git merge master` so that my local test can also enjoy the latest of the master
+  
   Now let's see whether I can push this branch upstream.
 
 HZ
