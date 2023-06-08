@@ -51,6 +51,7 @@ Yet another new refreshment of Git knowledge in June 2023
 
 (OMG, I'm 50 years old now!!!)
 
+* My daily addition at 2023-06-07 Wed
 
 HZ
 minor setup 1
