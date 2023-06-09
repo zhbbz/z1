@@ -52,6 +52,7 @@ Yet another new refreshment of Git knowledge in June 2023
 (OMG, I'm 50 years old now!!!)
 
 * My daily addition at 2023-06-07 Wed
+* 06/09 Fri: Realized that I never finished chapter 5 of [Pro Git online book](https://git-scm.com/book/en/v2)
 
 Running tab for learned key commands:
 
