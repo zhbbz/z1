@@ -62,7 +62,7 @@ Running tab for learned key commands:
 + `git br --all` show all branches (local and remote)
 + `git br -vv` more detailed info regarding each branch
 + `git switch -` switch/checkout to the previous branch
-+ `git remote show origin` gives detailed info regarding the 'origin' remote 
++ `git remote show origin` gives detailed info regarding the 'origin' remote
 
 
 HZ
