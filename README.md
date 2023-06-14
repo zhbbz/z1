@@ -53,6 +53,8 @@ Yet another new refreshment of Git knowledge in June 2023
 
 * My daily addition at 2023-06-07 Wed
 * 06/09 Fri: Realized that I never finished chapter 5 of [Pro Git online book](https://git-scm.com/book/en/v2)
+* 06/12 Mon: You can use multiple -m 'commit message' to form a multi-paragraph commit message
+* 06/14 Wed: use `git diff --check` to make sure there is no white space error introduced before stage
 
 Running tab for learned key commands:
 
