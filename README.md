@@ -55,6 +55,7 @@ Yet another new refreshment of Git knowledge in June 2023
 * 06/09 Fri: Realized that I never finished chapter 5 of [Pro Git online book](https://git-scm.com/book/en/v2)
 * 06/12 Mon: You can use multiple -m 'commit message' to form a multi-paragraph commit message
 * 06/14 Wed: use `git diff --check` to make sure there is no white space error introduced before stage
+    `git log master..contrib` == `git log contrib --not master`, show commit in contrib but not in master
 
 Running tab for learned key commands:
 
