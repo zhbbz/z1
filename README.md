@@ -56,6 +56,8 @@ Yet another new refreshment of Git knowledge in June 2023
 * 06/12 Mon: You can use multiple -m 'commit message' to form a multi-paragraph commit message
 * 06/14 Wed: use `git diff --check` to make sure there is no white space error introduced before stage
     `git log master..contrib` == `git log contrib --not master`, show commit in contrib but not in master
+* 06/17 Sat: Find diff from common ancester. If on branch contrib, do `git diff master...contrib` will show
+the work of contrib starting from where it branch off from master
 
 Running tab for learned key commands:
 
