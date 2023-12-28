@@ -72,12 +72,13 @@ Running tab for learned key commands:
 HZ
 
 Below is a test result of the .. and ... range operator in Git
-Basically, 
+Basically,
 - A..B means commits in B but not in A
 - B..A means comiits in A but not in B
 - A...B means both of above: the commits that are unique in A and B
 
 Output result:
+```
 hongbo@Y510P:~/w/learn_git_2/z1$ git log test1..master --pretty=format:"%h%x09%ad%x09%s" --date=short | nl
      1  1cb03c7 2023-06-19      daily update
      2  d196684 2023-06-16      daily update
@@ -105,4 +106,4 @@ hongbo@Y510P:~/w/learn_git_2/z1$ git log master...test1 --pretty=format:"%h%x09%
     10  2be82c3 2023-06-07      Merge branch 'master' into test1
     11  81d0176 2023-06-07      local commit 2
     12  de0b1fe 2023-06-07      first local commit
-
+```
